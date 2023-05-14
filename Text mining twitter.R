@@ -20,9 +20,7 @@ library(rtweet)
 library(ggplot2)
 set_bearer()
 
-#Tenemos que añadir un bearer que es la clave para poder hacer la descarga desde el API de los datos
-#TWITTER_BEARER=AAAAAAAAAAAAAAAAAAAAAIcRdAEAAAAA9aA9MyBAu2PQ76TLoMo3gycsPeg%3DmtULvs6bGH4UluTiCdAXB2wLT0l1v4lM2kAyLhHuRFK74LuOnh
-
+#Tenemos que añadir un bearer que es la clave para poder hacer la descarga desde el API de los datos, esta clave es privada y única para cada administrador 
 #Reiniciamos R
 Session --> Restart R
 
